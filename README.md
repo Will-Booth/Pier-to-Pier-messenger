@@ -3,5 +3,7 @@ A simple C++ Pier to Pier messaging service
 
 this is two pieces of software that connect a server and a user together to allow for messaging across a local area network
 
-simply download the folder and open it to reveal the server and the client use visual studio to open both the server and client.
-Launch the server first before launching the client
+one folder consists of the host/server
+
+the second folder consists of the user 
+
